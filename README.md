@@ -1,5 +1,5 @@
 ## Kacper Widuta | Vidutti
-Just a guy looking to make great projects that are useful for other, learn as much as possible about computers & programs, understand low-level concepts, and ultimately craft really awesome software.
+Just a guy looking to make great projects that are useful for others, learn as much as possible about computers & programs, understand low-level concepts, and ultimately craft really awesome software.
 
 ### Currently learning:
 - Zig
@@ -11,6 +11,7 @@ Just a guy looking to make great projects that are useful for other, learn as mu
 ### Fun facts:
 - Professional watermelon devourer, but I am allergic to bananas.
 - My childhood favorite tv series was Scooby Doo, and I believed that my dog’s kibbles were Scooby Snacks…
+- Took 16th place (out of 700 pairs) in hitchhiking competition across Europe. 
 - As a kid, my dream job was to be a bus driver.
 - My parents bought me two crabs as pets.
 - I am on the title sequence of The Real Housewives of Warsaw.

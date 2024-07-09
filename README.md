@@ -1,5 +1,5 @@
 ## Kacper Widuta | Vidutti
-I'm just a guy looking to make great projects useful for others, learn as much as possible about computers & programs, understand low-level concepts, and ultimately really craft awesome software.
+I'm just a guy looking to make great projects, useful tools for others, learn as much as possible about computers & programs, understand low-level concepts, and ultimately craft really awesome software.
 
 ### Currently learning:
 - Zig
